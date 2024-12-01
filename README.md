@@ -1,0 +1,2 @@
+# django
+configurações do framework
